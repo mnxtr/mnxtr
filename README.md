@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnxtr
 - 👀 I’m interested in networks, API , backend , automation.
-- 🌱 I’m currently learning Graphql 
+- 🌱 I’m currently learning GraphQl 
 
 - 📫 How to reach me mail me at mohammad.newaz@northsouth.edu
 
