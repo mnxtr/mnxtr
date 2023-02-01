@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mnxtr
 - 👀 I’m interested in networks, API , backend , automation.
-- 🌱 I’m currently learning GraphQl 
+- 🌱 I’m currently learning Microsoft Azure Services. 
+- 
 
 - 📫 How to reach me mail me at mohammad.newaz@northsouth.edu
 
