@@ -1,12 +1,18 @@
 - 👋 Hi, I’m Mansib Newaz (alias mnxtr) 
 - 👀 I’m interested in networks, API , Backend Archetecture , Automation.
-- 🌱 I’m currently learning Microsoft Azure Services, Fundamentals of Cloud Computing , Restful Api 
+- 🌱 I’m currently learning Microsoft Azure OpenAI models on msft learn, Fundamentals of Cloud Computing , Secure-API, 
 - 
 
 
 <h1>Skillset</h1>
 
--  **_LinkedIn_** : https://www.linkedin.com/in/mansibnewaz/ 
+
+
+
+
+i
+
+- **_LinkedIn_** : https://www.linkedin.com/in/mansibnewaz/ 
 - **_Portfolio_** : https://www.mnxtr.github.io
 - **_Facebook_**  : https://www.facebook.com/mansib.newaz/
 - **_Twitch_**    : https://www.twitch.tv/mnxtrr 
