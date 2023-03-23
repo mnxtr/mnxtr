@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mansib Newaz (alias mnxtr) 
+👋 ## Hi, I’m Mansib Newaz (alias mnxtr) Senior Student @ North South University , Dhaka. 
+- 
 - 👀 I’m interested in networks, API , Backend Archetecture , Automation.
 - 🌱 I’m currently learning Microsoft Azure OpenAI models on msft learn, Fundamentals of Cloud Computing , Secure-API, 
 - 
