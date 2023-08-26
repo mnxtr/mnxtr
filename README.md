@@ -1,14 +1,9 @@
 - 👋 Hi, I’m Mansib Newaz (alias mnxtr) 
-- 👀 I’m interested in networks, API , Backend Archetecture , Automation.
-- 🌱 I’m currently learning Microsoft Azure OpenAI models on msft learn, Fundamentals of Cloud Computing , Secure-API, 
-- 
-
+- 👀 I’m interested in networks, API, Backend architecture, and Automation.
+- 🌱 I’m currently learning Microsoft Azure OpenAI models on MSFT Learn, Fundamentals of Cloud Computing, Secure-API,
+- Researching a Balanced approach to automate EKG reading and predict Heart Disorders using multiple neural networks.
 
 <h1>Skillset</h1>
-
-
-
-
 
 i
 
