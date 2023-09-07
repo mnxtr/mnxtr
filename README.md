@@ -5,12 +5,7 @@
 
 
 <h1>Skillset</h1>
-
-
-
-
-
-i
+- html - nodejs - python 
 
 - **_LinkedIn_** : https://www.linkedin.com/in/mansibnewaz/ 
 - **_Portfolio_** : https://www.mnxtr.github.io
