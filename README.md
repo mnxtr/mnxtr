@@ -1,3 +1,6 @@
+# who am i ? 
+- I like to explore diverse topics whatever interests me.
+
 - 👋 Hi, I’m Mansib Newaz (alias mnxtr) 
 - 👀 I’m interested in networks, API , Backend Archetecture , Automation.
 - 🌱 I’m currently learning Microsoft Azure OpenAI models on msft learn, Fundamentals of Cloud Computing , Secure-API, 
