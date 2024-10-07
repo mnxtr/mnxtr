@@ -10,7 +10,6 @@
 
 
 
-i
 
 - **_LinkedIn_** : https://www.linkedin.com/in/mansibnewaz/ 
 - **_Portfolio_** : https://www.mnxtr.github.io
