@@ -2,6 +2,74 @@
 <br><br>    👋 Hi, I’m Mansib Newaz (alias mnxtr)<br>    👀 I’m interested in networks, API , Backend Archetecture , Automation.<br>    🌱 I’m currently learning Microsoft Azure OpenAI models on msft learn, Fundamentals of Cloud Computing , Secure-API,Fast-api
 
 
+
+ublications and GitHub Projects for Mohammad Mansib Newaz
+GitHub Projects and Contributions
+
+Mohammad Mansib Newaz (username: mnxtr) maintains an active GitHub profile with 115 contributions in the last year across multiple repositories. His primary focus areas include network architecture, API development, backend systems, and automation.
+
+​
+Key GitHub Projects
+
+Multimodal Deepfake Detection AI: In October 2025, Newaz created a pull request for a multimodal AI project designed to detect deepfakes and misinformation across images, text, and URLs, featuring a FastAPI API and CLI interface. This project added over 590 lines of code.
+
+​
+
+498R-Directed Research: A Spring 2023 directed research repository for ECE (Electrical and Computer Engineering) at North South University.
+
+​
+
+Customer Relationship Management System: A web-based support ticket management system featuring ticket creation, viewing, and resolution capabilities. The system includes features for filtering tickets by status and searching by customer name or issue.
+
+​
+
+Database Management System (mdbms-html): One of his pinned repositories showing active contributions.
+
+​
+
+ML-repository: Machine learning projects repository with contributions to 12 other repositories.
+
+​
+Technical Profile
+
+Newaz is currently learning Microsoft Azure OpenAI models, cloud computing fundamentals, secure API development, and FastAPI. He describes himself as focusing on network and system architecture with research interests in IoT and AI-aided network security.
+
+​
+Academic Publications
+
+Newaz maintains an Academia.edu profile listing 20 research papers with stated research interests in mathematics, international law, and development studies. However, specific publication titles and details were not accessible from the public profile page.
+
+​
+Academic Records
+
+University records from North South University show Newaz was enrolled in the BEN205 (Bengali Language and Literature) course during Spring 2023, Section 33.
+​
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mnx.tr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/mansibnewaz/) 
 
