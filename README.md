@@ -7,28 +7,20 @@ ublications and GitHub Projects for Mohammad Mansib Newaz
 GitHub Projects and Contributions
 
 Mohammad Mansib Newaz (username: mnxtr) maintains an active GitHub profile with 115 contributions in the last year across multiple repositories. His primary focus areas include network architecture, API development, backend systems, and automation.
-
 ​
 Key GitHub Projects
 
 Multimodal Deepfake Detection AI: In October 2025, Newaz created a pull request for a multimodal AI project designed to detect deepfakes and misinformation across images, text, and URLs, featuring a FastAPI API and CLI interface. This project added over 590 lines of code.
 
-​
 
 498R-Directed Research: A Spring 2023 directed research repository for ECE (Electrical and Computer Engineering) at North South University.
 
-​
 
 Customer Relationship Management System: A web-based support ticket management system featuring ticket creation, viewing, and resolution capabilities. The system includes features for filtering tickets by status and searching by customer name or issue.
 
-​
-
 Database Management System (mdbms-html): One of his pinned repositories showing active contributions.
 
-​
-
 ML-repository: Machine learning projects repository with contributions to 12 other repositories.
-
 ​
 Technical Profile
 
@@ -39,10 +31,6 @@ Academic Publications
 
 Newaz maintains an Academia.edu profile listing 20 research papers with stated research interests in mathematics, international law, and development studies. However, specific publication titles and details were not accessible from the public profile page.
 
-​
-Academic Records
-
-University records from North South University show Newaz was enrolled in the BEN205 (Bengali Language and Literature) course during Spring 2023, Section 33.
 ​
 
 
