@@ -27,9 +27,6 @@ Technical Profile
 Newaz is currently learning Microsoft Azure OpenAI models, cloud computing fundamentals, secure API development, and FastAPI. He describes himself as focusing on network and system architecture with research interests in IoT and AI-aided network security.
 
 ​
-Academic Publications
-
-Newaz maintains an Academia.edu profile listing 20 research papers with stated research interests in mathematics, international law, and development studies. However, specific publication titles and details were not accessible from the public profile page.
 
 ​
 
