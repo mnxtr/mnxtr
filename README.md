@@ -4,6 +4,9 @@
  📍 Dhaka, Bangladesh | 🎓 North South University                                                                           
                                                                                                                             
  [![Portfolio](https://img.shields.io/badge/Portfolio-mnxtr.github.io-6366F1?style=for-the-badge&logo=globe)](https://mnxtr. github.io)                                                                                                                 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
  [![Email](https://img.shields.io/badge/Email-mohammad.newaz1%40northsouth.edu-D14836?style=for-the-badge&logo=gmail)](mailt o:mohammad.newaz1@northsouth.edu)                                                                                          
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mnxtr-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in /mnxtr)                                                                                                                    
  [![GitHub](https://img.shields.io/badge/GitHub-mnxtr-181717?style=for-the-badge&logo=github)](https://github.com/mnxtr)    
